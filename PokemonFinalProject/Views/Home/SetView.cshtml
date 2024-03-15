@@ -1,0 +1,21 @@
+﻿@model List<PokemonFinalProject.Models.Set>
+
+<h1>Pokémon Card Sets</h1>
+@if (Model != null)
+{
+    <ul>
+        @foreach (var set in Model)
+        {
+            <li>
+                <strong>Name: </strong> <a href="@Url.Action("SetDetails", "Home", new { id = set.id })">@set.name</a><br />
+                <strong>Series: </strong> @set.series <br />
+                <strong>Release Date: </strong> @set.releaseDate <br />
+                <img src="@set.images.symbol" alt="@set.name Symbol" />
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No data available!</p>
+}

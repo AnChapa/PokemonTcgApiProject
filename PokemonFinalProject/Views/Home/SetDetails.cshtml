@@ -1,0 +1,21 @@
+﻿@model List<PokemonFinalProject.Models.Card>
+
+<h1>Pokémon Cards</h1>
+@if (Model != null)
+{
+    <ul>
+        @foreach (var card in Model)
+        {
+            <li>
+                <strong>Name: </strong> <a href="@Url.Action("CardDetails", "PokemonAPI", new { id = card.id })">@card.name</a><br />
+                <strong>Id: </strong> @card.id <br />
+                <strong>Set: </strong> @card.set.name <br />
+                <img src="@card.images.small" alt="Card Image" /> <br />
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No data available!</p>
+}

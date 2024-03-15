@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\service\\cardretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\service\\cardretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\service\\setretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\service\\setretrieval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\views\\home\\setview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\views\\home\\setview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\views\\home\\setdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\views\\home\\setdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\views\\pokemonapi\\carddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\views\\pokemonapi\\carddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\controllers\\pokemonapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\controllers\\pokemonapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|c:\\users\\owner\\onedrive\\desktop\\repos\\finalproject\\pokemonfinalproject\\pokemonfinalproject\\models\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FF4D5-59CD-4709-918F-2B022C741532}|PokemonFinalProject\\PokemonFinalProject.csproj|solutionrelative:pokemonfinalproject\\models\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PokemonFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T03:24:37.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Program.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T03:20:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SetDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Home\\SetDetails.cshtml",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Views\\Home\\SetDetails.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Home\\SetDetails.cshtml",
+              "RelativeToolTip": "PokemonFinalProject\\Views\\Home\\SetDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T03:18:04.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SetView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Home\\SetView.cshtml",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Views\\Home\\SetView.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\Home\\SetView.cshtml",
+              "RelativeToolTip": "PokemonFinalProject\\Views\\Home\\SetView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T02:55:36.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetRetrieval.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Service\\SetRetrieval.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Service\\SetRetrieval.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Service\\SetRetrieval.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Service\\SetRetrieval.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:49:43.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Set.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Models\\Set.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Models\\Set.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Models\\Set.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Models\\Set.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:34:07.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\PokemonAPI\\CardDetails.cshtml",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Views\\PokemonAPI\\CardDetails.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Views\\PokemonAPI\\CardDetails.cshtml",
+              "RelativeToolTip": "PokemonFinalProject\\Views\\PokemonAPI\\CardDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T01:50:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Models\\Card.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Models\\Card.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA1wD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:43:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Startup.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Startup.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Startup.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Startup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:16:54.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardRetrieval.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Service\\CardRetrieval.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Service\\CardRetrieval.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Service\\CardRetrieval.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Service\\CardRetrieval.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:24:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:40:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PokemonAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Controllers\\PokemonAPIController.cs",
+              "RelativeDocumentMoniker": "PokemonFinalProject\\Controllers\\PokemonAPIController.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\FinalProject\\PokemonFinalProject\\PokemonFinalProject\\Controllers\\PokemonAPIController.cs",
+              "RelativeToolTip": "PokemonFinalProject\\Controllers\\PokemonAPIController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:37:57.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

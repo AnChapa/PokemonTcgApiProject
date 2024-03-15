@@ -1,0 +1,25 @@
+﻿@model PokemonFinalProject.Models.Card
+
+<h1>Pokémon Cards</h1>
+@if (Model != null)
+{
+    <ul>
+         <li>
+            <strong>Name: </strong> @Model.name <br />
+            <strong>Id: </strong> @Model.id <br />
+            <strong>Set: </strong> @Model.set.name <br />
+            <strong>Series: </strong> @Model.set.series <br />
+            <strong>Release Date: </strong> @Model.set.releaseDate <br />
+            <strong>Artist: </strong> @Model.artist <br />
+            <strong>Flavor Text: </strong> @Model.flavorText <br />
+            <img src="@Model.images.large" alt="Card Image" /> <br />
+            <strong>TCG Player URL: </strong> <a href="@Model.tcgPlayer.url" target="_blank">@Model.tcgPlayer.url</a><br />
+            <strong>Trend Price: </strong> @Model.tcgPlayer.prices.trendPrice <br />
+         </li>
+        
+    </ul>
+}
+else
+{
+    <p>No data available!</p>
+}
